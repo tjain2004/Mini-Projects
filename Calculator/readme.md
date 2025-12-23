@@ -28,9 +28,12 @@ This project performs basic arithmetic operations with a clean and user-friendly
 ## 📂 Project Structure
 
 📁 calculator
-│
+
 ├── cal.html # Main HTML file
+
 ├── cal.css # Styling file
+
 ├── cal.js # JavaScript logic
-└── c10.jpeg # Calculator preview image
+
+|── c10.jpeg # Calculator preview image
 
